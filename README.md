@@ -15,11 +15,11 @@
 A plataforma de hospedagem utilizada é Amazom EC2, em um servidor Ubuntu, no ip 15.228.99.8:3333
 
 ## Como utilizar
-Para rodar em ambiente de desenvolvimento é apenas necessário  executar o comando: npm run dev
+Para rodar em ambiente de desenvolvimento é apenas necessário  executar o comando: npm run dev                                                                                     
 Para rodar direto pelo node é apenas necessário executar o comando: npm run start 
 
 ## Links
-Repositório Front-end: https://github.com/FelipeJhordan/blog-frontend
+Repositório Front-end: https://github.com/FelipeJhordan/blog-frontend                                                                                                               
 Ip 15.228.99.8:3333
 ## Exemplo arquivo
 BD_USER='user'                                                                                                                                                                

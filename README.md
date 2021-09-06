@@ -37,5 +37,5 @@ OPTION_RUN= case info and others | case 2 = all minus info | case 3 = warn and o
 KEY_JWT="312312"
 
 # Testes
-Foi utilizado o aplicativo postman para validar o funcionamento da api
+Foi utilizado o aplicativo postman para validar o funcionamento da api                                                                                                                                    
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/321c15f7e701c06a3f84?action=collection%2Fimport)

@@ -22,17 +22,17 @@ Para rodar direto pelo node é apenas necessário executar o comando: npm run st
 Repositório Front-end: https://github.com/FelipeJhordan/blog-frontend
 Ip 15.228.99.8:3333
 ## Exemplo arquivo
-BD_USER='user'
-BD_DATABASE='db_example'
+BD_USER='user'                                                                                                                                                                
+BD_DATABASE='db_example'                                                                                                                                                        
 BD_HOST='localhost'
-BD_DIALECT='mysql' || 'pg' || 'sqlite' || 'oracle' || some other
-BD_PASSWORD='mypassword12345'
-BD_PORT=3306
-BD_LOGGING=0
+BD_DIALECT='mysql' || 'pg' || 'sqlite' || 'oracle' || some other                                                                                                               
+BD_PASSWORD='mypassword12345'                                                                                                                                                   
+BD_PORT=3306                                                                                                                                                                      
+BD_LOGGING=0                                                                                                                                                                                                                                                                                                                                                           
 
-ADDRESS_IP_FRONT_LOCAL=32122
-ADDRESS_PORT=555
-OPTION_RUN= case info and others | case 2 = all minus info | case 3 = warn and options above || case 4 = only error    
+ADDRESS_IP_FRONT_LOCAL=32122                                                                                                                                    
+ADDRESS_PORT=555                                                                                                                                                                   
+OPTION_RUN= case info and others | case 2 = all minus info | case 3 = warn and options above || case 4 = only error                                                                 
 
 KEY_JWT="312312"
 
